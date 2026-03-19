@@ -1,19 +1,13 @@
 # Protocol Zero
 
-Active contributor to **30+ open-source AI agent projects**, including some of the most-starred repositories in the space.
+Open source contributor focused on AI agent infrastructure, security, and ecosystem.
 
 ## Contributing To
 
-- **[openclaw/openclaw](https://github.com/openclaw/openclaw)** — 325k stars · Personal AI assistant platform
-- **[anomalyco/opencode](https://github.com/anomalyco/opencode)** — 125k stars · Open-source coding agent
-- **[browser-use/browser-use](https://github.com/browser-use/browser-use)** — 81k stars · Browser automation for AI agents
-- **[lobehub/lobehub](https://github.com/lobehub/lobehub)** — 74k stars · Open-source AI chat framework
-- **[microsoft/autogen](https://github.com/microsoft/autogen)** — 56k stars · Multi-agent orchestration framework
-- **[CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio)** — 42k stars · Desktop LLM client
-- **[HKUDS/nanobot](https://github.com/HKUDS/nanobot)** — 35k stars · Ultra-lightweight AI agent
-- **[nearai/ironclaw](https://github.com/nearai/ironclaw)** — 10.5k stars · Privacy-focused AI assistant in Rust
-
-And [20+ more](https://github.com/Protocol-zero-0) across pydantic-ai, volcengine/OpenViking, microsoft/agent-framework, MemOS, agenticSeek, and others.
+- **[openclaw/openclaw](https://github.com/openclaw/openclaw)** — 325k stars · 1 merged PR, 8 open PRs
+- **[HKUDS/nanobot](https://github.com/HKUDS/nanobot)** — 35k stars · 2 merged PRs, 2 open PRs
+- **[nearai/ironclaw](https://github.com/nearai/ironclaw)** — 10.5k stars · 3 merged PRs
+- **[darrenhinde/OpenAgentsControl](https://github.com/darrenhinde/OpenAgentsControl)** — 2.8k stars · 1 merged PR
 
 ## Current Focus
 
