@@ -5,6 +5,7 @@ Open source contributor focused on AI agent infrastructure, security, and ecosys
 ## Contributing To
 
 - **[openclaw/openclaw](https://github.com/openclaw/openclaw)** — 325k stars · Personal AI assistant platform
+- **[anomalyco/opencode](https://github.com/anomalyco/opencode)** — 127k stars · Open-source coding agent
 - **[lobehub/lobehub](https://github.com/lobehub/lobehub)** — 74k stars · Open-source AI chat framework
 - **[HKUDS/nanobot](https://github.com/HKUDS/nanobot)** — 35k stars · Ultra-lightweight AI agent
 - **[volcengine/OpenViking](https://github.com/volcengine/OpenViking)** — 16k stars · Open-source agent platform and workflow runtime
