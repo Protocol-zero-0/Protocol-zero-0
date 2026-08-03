@@ -2,6 +2,12 @@
 
 Open source contributor focused on AI agent infrastructure, security, and ecosystem.
 
+## Building
+
+- **[JouleBeat](https://www.joulebeat.com)** — long-horizon agent reliability: harness search, verification, token-scale orchestration
+- **[evolution-kernel](https://github.com/Protocol-zero-0/evolution-kernel)** — closed-loop harness optimizer: observe / plan / execute (sandboxed) / evaluate, every decision ledgered · `pip install evolution-kernel`
+- **[billion-token-one-task](https://github.com/billion-token-one-task)** — our research org: [Deepgraph](https://github.com/billion-token-one-task/Deepgraph) · [Codex_testing_bench](https://github.com/billion-token-one-task/Codex_testing_bench)
+
 ## Contributing To
 
 - **[openclaw/openclaw](https://github.com/openclaw/openclaw)** — 325k stars · Personal AI assistant platform
