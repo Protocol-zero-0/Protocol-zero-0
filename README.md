@@ -21,7 +21,7 @@ Open source contributor focused on AI agent infrastructure, security, and ecosys
 ## Current Focus
 
 - OpenClaw ecosystem: China-side resources, long horizon task agent research
-- Agentic security and infrastructure hardening
+- Agentic Harness through RSI
 
 ---
 Infrastructure powered by Voiverse.
